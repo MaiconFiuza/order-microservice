@@ -21,7 +21,7 @@ Executar o seguinte comando:
     docker-compose up --build
 
 #### 2. Executar a aplicação através dos containeres criados:
-Executar o seguinte comando para inicializar os containeres da aplicação, na raíz do projeto (onde se encontra o arquivo docker-compose.yml):
+Executar o seguinte comando para inicializar os containeres da aplicação
 
     docker-compose up
 
